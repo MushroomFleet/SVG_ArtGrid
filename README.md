@@ -1,4 +1,5 @@
 # SVG_ArtGrid
+![example](https://raw.githubusercontent.com/MushroomFleet/SVG_ArtGrid/refs/heads/main/images/art_grid.png?raw=true)
 
 A Python CLI tool for generating artistic SVG grids inspired by modernist design patterns. This tool creates beautiful, generative art pieces featuring various geometric designs arranged in a grid pattern, with a cohesive color palette.
 
