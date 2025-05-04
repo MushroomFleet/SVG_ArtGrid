@@ -103,7 +103,7 @@ You can create your own color palette JSON file. The format should be an array o
 
 ## Credits
 
-This tool was inspired by an article on generative art techniques and modernist design principles.
+This tool was inspired by an [article](https://frontend.horse/articles/generative-grids/) on generative art techniques and modernist design principles written in javascript from 2022.
 
 ## License
 
